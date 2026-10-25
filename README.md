@@ -1,5 +1,5 @@
 
-# 🇵🇰 Pakistan Job Market Analysis 2025
+# Pakistan Job Market Analysis 2025
 
 <p align="center">
   <b>📊 Turning Raw Data into Meaningful Insights</b>
